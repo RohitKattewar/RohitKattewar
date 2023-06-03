@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RohitKattewar
 - 👀 Currently working
 - 🌱 Growing my experties by learning and applying the skills 
-- 💞️ I’m interested Tech..
+- 💞️ I’m interested in Tech..
 - 📫 How to reach me -->  rohit.kattewar@gmail.com
 
 <!---
