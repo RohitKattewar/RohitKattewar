@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RohitKattewar
-- 👀 Currently looking for opportunities to work as a Data Analyst/Scientist
+- 👀 Currently working
 - 🌱 Growing my experties by learning and applying the skills 
-- 💞️ I’m interested in Data Science & Machine learning, AI, Python, etc...
+- 💞️ I’m interested Tech..
 - 📫 How to reach me -->  rohit.kattewar@gmail.com
 
 <!---
